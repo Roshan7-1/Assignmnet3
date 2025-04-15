@@ -1,0 +1,1 @@
+echo "Polling SCM and building every 3 minutes"
